@@ -10,4 +10,3 @@ dependencies:
 - jupyterlab>=3.1
 - voila>=0.2.11
 - vega_datasets
--show_tracebacks=True
